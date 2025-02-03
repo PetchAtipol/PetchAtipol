@@ -1,7 +1,7 @@
 Hi 👋 My name is Atipol Dechatiwong Na Ayuthaya
 ===============================================
 
-I am currently studying computer engineering at Srinakharinwirot University. I have experience in web development with ReactJS and NodeJS, working with SQL databases, and programming in Java and C. I am also interested in data science, particularly in areas like machine learning, data visualization, and statistical analysis. I have completed projects involving web applications, backend APIs, and database management. Additionally, I enjoy learning about emerging technologies and exploring how to apply data-driven solutions to real-world problems.
+I am currently studying computer engineering at Srinakharinwirot University. I have experience in web development with NextJS and NodeJS, working with SQL databases, and programming in Java and C. I am also interested in data science, particularly in areas like machine learning, data visualization, and statistical analysis. I have completed projects involving web applications, backend APIs, and database management. Additionally, I enjoy learning about emerging technologies and exploring how to apply data-driven solutions to real-world problems.
 
 * 🌍  I'm based in Bangkok, Thailand
 
